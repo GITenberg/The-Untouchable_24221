@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '26321'
     url: http://www.gutenberg.org/2009/agents/26321
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24221#The-Untouchable
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-01-08'
 gutenberg_type: Text
